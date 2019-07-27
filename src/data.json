@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "name": "Karl",
+    "major": "Computer Science",
+    "industry": "FinTech",
+    "image": "1.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 1,
+    "name": "Mariah",
+    "major": "Music",
+    "industry": "EduTech",
+    "image": "2.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 2,
+    "name": "Yang",
+    "major": "American History",
+    "industry": "FinTech",
+    "image": "3.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 3,
+    "name": "Rachael",
+    "major": "Business",
+    "industry": "Entertainment",
+    "image": "4.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 4,
+    "name": "Lovedeep",
+    "major": "Physiology",
+    "industry": "Medicine",
+    "image": "5.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 5,
+    "name": "Johann",
+    "major": "Linguistics",
+    "industry": "AI/Machine Learning",
+    "image": "6.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 6,
+    "name": "Taylor",
+    "major": "Forestry",
+    "industry": "Life Coaching",
+    "image": "7.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  }
+]
